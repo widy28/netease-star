@@ -22,4 +22,5 @@ python xingqiu_mi6.py
 <img src="https://github.com/widy28/netease-star/blob/master/images/zfb.jpg" width="150" height="220" alt="支付宝支付"/>
 
 ## 联系
-如有问题请联系：widy28@163.com，请附带支付记录，后续无偿支持
+如有问题请联系：widy28@163.com，请附带支付记录，后续无偿支持<br>
+云音乐任务播放完毕后 批量点赞功能 已完成，需要的请联系
