@@ -16,5 +16,5 @@ python xingqiu_mi6.py
 ```
 
 ## 感谢支持
-![image](http://github.com/widy28/netease-star/master/images/wx.jpg)
-![image](http://github.com/widy28/netease-star/master/images/zfb.jpg)
+<img src="http://github.com/widy28/netease-star/blob/master/images/wx.jpg" width="150" height="220" alt="微信支付"/>
+<img src="http://github.com/widy28/netease-star/blob/master/images/zfb.jpg" width="150" height="220" alt="支付宝支付"/>
