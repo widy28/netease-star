@@ -18,4 +18,5 @@ python xingqiu_mi6.py
 ```
 
 ## 联系
-如有问题请联系：widy28@163.com
+如有问题请联系：widy28@163.com<br>
+网易星球交流 QQ群：778124573
