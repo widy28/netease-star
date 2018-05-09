@@ -19,11 +19,11 @@ python xingqiu_mi6.py
 ## 感谢支持
 <div>
     <span>微信</span>
-    ![image](http://github.com/widy28/netease-star/master/images/wx.jpg)
+![image](http://github.com/widy28/netease-star/master/images/wx.jpg)
 </div>
 <div>
     <span>支付宝</span>
-    ![image](http://github.com/widy28/netease-star/master/images/zfb.png)
+![image](http://github.com/widy28/netease-star/master/images/zfb.png)
 </div>
 
 ## 联系
