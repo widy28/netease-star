@@ -21,10 +21,12 @@ python xingqiu_mi6.py
     <span>微信</span>
 ![image](https://github.com/widy28/netease-star/blob/master/images/wx.jpg)
 </div>
+![image](https://github.com/widy28/netease-star/blob/master/images/wx.jpg)
 <div>
     <span>支付宝</span>
 ![image](https://github.com/widy28/netease-star/blob/master/images/zfb.png)
 </div>
+![image](https://github.com/widy28/netease-star/blob/master/images/zfb.png)
 
 ## 联系
 如有问题请联系：widy28@163.com<br>
