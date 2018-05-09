@@ -17,15 +17,7 @@ pip install -r requirements.txt --trusted-host pypi.douban.com
 python xingqiu_mi6.py
 ```
 ## 感谢支持
-<div>
-    <span>微信</span>
 ![image](https://github.com/widy28/netease-star/blob/master/images/wx.jpg)
-</div>
-![image](https://github.com/widy28/netease-star/blob/master/images/wx.jpg)
-<div>
-    <span>支付宝</span>
-![image](https://github.com/widy28/netease-star/blob/master/images/zfb.png)
-</div>
 ![image](https://github.com/widy28/netease-star/blob/master/images/zfb.png)
 
 ## 联系
